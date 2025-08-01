@@ -25,8 +25,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gethmi-rathnayaka-4a5285270/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat-square)](mailto:gethmisrm@gmail.com)
 
-<p align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gethmi-Rathnayaka&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gethmi-Rathnayaka&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
+</div>
+
 
