@@ -1,10 +1,10 @@
 ## Hi I'm Gethmi/Geez
 <p align="left">
-  🌸 IT Undergraduate | 🧶 Alt-crafter | 🐞 Bug lover | 🧁 Baker of sweet things
+  🌸 IT Undergraduate | 🧶 Alt-aesthetic | 🐞 Bug lover | 🧁 Baker of sweet things
 </p>
 
 ### 🧠 About Me
-- 🎓 2nd year IT student from Sri Lanka 🇱🇰
+- 🎓 3rd year IT student from UOM Sri Lanka 🇱🇰
 - 💡 Building real-time platforms with the **MERN stack**
 - 🧪 Exploring **AI/ML** + **DevOps** + **Game Dev**
 - 🧵 When not coding, I’m probably crocheting something strange 🕸️
@@ -15,7 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ballerina/ballerina-original.svg" alt="ballerina" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
@@ -23,9 +23,10 @@
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gethmi-rathnayaka-4a5285270/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square)](mailto:gethmisrm@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat-square)](mailto:gethmisrm@gmail.com)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Gethmi-Rathnayaka&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gethmi-Rathnayaka&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
