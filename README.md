@@ -1,6 +1,6 @@
 ## Hi I'm Gethmi/Geez
 <p align="left">
-  🌸 IT Undergraduate | 🧶 Alt-aesthetic | 🐞 Bug lover | 🧁 Baker 
+  🌸 IT Undergraduate | 🧶 Alt-aesthetic | 🐞 Bug lover | 🧁 Baker  
 </p>
 
 ### 🧠 About Me
