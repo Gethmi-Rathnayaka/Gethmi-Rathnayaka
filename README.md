@@ -6,7 +6,7 @@
 ### 🧠 About Me
 - 🎓 3rd year IT student from UOM Sri Lanka 🇱🇰
 - 💡 Building real-time platforms with the **MERN stack**
-- 🧪 Exploring **AI/ML** + **DevOps** + **Game Dev**
+- 🧪 Exploring **AI/ML** + **GSAP** + **Game Dev**
 - 🧵 When not coding, I’m probably crocheting something strange 🕸️
 
 ### 🚀 &nbsp;Some Tools I Have Used and Learned
