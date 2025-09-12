@@ -29,7 +29,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gethmi-Rathnayaka&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gethmi-Rathnayaka&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gethmi-Rathnayaka&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gethmi-Rathnayaka&layout=compact&theme=tokyonight"/>
 </div>
 
 
